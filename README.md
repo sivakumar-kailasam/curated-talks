@@ -1,2 +1,2 @@
 # track-talks
-Keeping track of all the tech talks I have and scripts to download new ones.
+Keeping track of all the talks I've seen and yet to see.
